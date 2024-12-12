@@ -1,79 +1,37 @@
-
-Here’s a template for a `README.md` file for your short story submission, assuming it needs to align with specific rubrics and includes various artifacts:
-
----
-
-# Short Story Submission
-
-## Title: *[Insert Story Title]*
-
-### Author: *[Your Name]*  
-**Submission Date:** *[Insert Date]*
-
----
+# Short Story Assignment
 
 ## Overview
+This repository contains the deliverables for the Short Story Assignment, summarizing and analyzing the research paper "Mining Seasonal Temporal Patterns in Time Series." The goal of this assignment is to provide a high-level overview of the research, highlighting the architecture, methodology, key metrics, and findings while avoiding excessive mathematical depth.
 
-This repository contains the submission for my short story project, created as per the specified rubrics. The story showcases a unique narrative, engaging themes, and vivid storytelling techniques. All required artifacts are included, as detailed below.
+## Artifacts
 
----
+1. **Medium Article**
+   - [Exploring Time Series to Gain Knowledge: Examining Seasonal Temporal Trends](https://medium.com/@yugmmaneshkumar.patel/exploring-time-series-to-gain-knowledge-examining-seasonal-temporal-trends-a641f160c9b2)
 
-## Artifacts Included
+2. **Slide Deck**
+   - [SlideShare Presentation: Mining Seasonal Temporal Patterns in Time Series](https://www.slideshare.net/slideshow/mining-seasonal-temporal-patterns-in-time-series/274024355)
 
-1. **Short Story Document**  
-   - File Name: `short_story.docx`  
-   - Description: The complete story written in compliance with the rubric's word count, tone, and theme requirements.
+3. **Video Presentation**
+   - [YouTube Video Link](https://youtube.com/link-placeholder)
 
-2. **Synopsis Document**  
-   - File Name: `synopsis.pdf`  
-   - Description: A concise summary of the story, outlining its main plot, themes, and key takeaways.
+## Key Findings
 
-3. **Rubric Compliance Checklist**  
-   - File Name: `rubric_checklist.pdf`  
-   - Description: A self-assessment checklist to ensure all rubric points are met.
+### Key Innovations
+1. **Efficient Granular Mining:**
+   - The research introduces techniques to mine patterns across various time granularities, enabling flexibility in identifying seasonal temporal patterns.
 
-4. **Creative Process Outline**  
-   - File Name: `creative_process.md`  
-   - Description: A detailed outline of the steps taken to create the story, including brainstorming, drafting, editing, and finalization.
+2. **Novel Algorithmic Approaches:**
+   - Utilization of efficient data structures and pruning techniques, such as:
+     - **Apriori-like pruning**
+     - **Transitivity pruning**
+   - These methods reduce the computational search space and improve the scalability of the process.
 
-5. **Supporting Artifacts (Optional)**  
-   - Visuals, concept sketches, or research notes that informed the narrative (if applicable).
+3. **Approximate Mining Techniques:**
+   - The introduction of mutual information-based filtering drastically improves runtime and memory efficiency while maintaining high accuracy.
 
----
+## Conclusion
+This research presents a transformative approach to mining Seasonal Temporal Patterns (STPs) from time series data. By combining innovative data structures, advanced pruning techniques, and approximate solutions, the framework achieves superior scalability and precision. These advancements empower industries such as healthcare, smart cities, and finance to derive actionable insights from vast time series data efficiently.
 
-## How to Access
+## References
+- **Research Paper:** [Mining Seasonal Temporal Patterns in Time Series](https://arxiv.org/pdf/2206.14604)
 
-1. **Short Story**  
-   Open the `short_story.docx` file to read the story in its entirety.
-
-2. **Synopsis**  
-   Review the `synopsis.pdf` file for a quick overview of the narrative.
-
-3. **Rubric Compliance**  
-   Check the `rubric_checklist.pdf` to verify adherence to the assignment requirements.
-
-4. **Creative Process**  
-   Refer to `creative_process.md` for insights into the story's development journey.
-
----
-
-## Rubric Highlights
-
-This project was evaluated on the following key criteria:
-- Originality and creativity in storytelling.
-- Clarity of narrative structure.
-- Adherence to the prescribed word count.
-- Effective use of language, tone, and imagery.
-- Submission of all required artifacts.
-
----
-
-## Feedback and Questions
-
-For any feedback or queries, please contact:  
-**Name:** *[Your Name]*  
-**Email:** *[Your Email Address]*
-
----
-
-Let me know if you need further customization or adjustments based on the specific details of your submission!
