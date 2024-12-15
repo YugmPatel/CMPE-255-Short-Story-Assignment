@@ -12,7 +12,7 @@ This repository contains the deliverables for the Short Story Assignment, summar
    - [SlideShare Presentation: Mining Seasonal Temporal Patterns in Time Series](https://www.slideshare.net/slideshow/mining-seasonal-temporal-patterns-in-time-series/274024355)
 
 3. **Video Presentation**
-   - [YouTube Video Link](https://youtu.be/Da2gNh40d1U)
+   - [YouTube Video Link](https://youtu.be/siyMMpgTiQM)
 
 ## Key Findings
 
